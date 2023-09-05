@@ -1,0 +1,6 @@
+public class TamizhJavaApp {
+    public static void main(String[] args) {
+        String message = "Hello, welcome to the Tamizh Java Application!";
+        System.out.println(message);
+    }
+}
